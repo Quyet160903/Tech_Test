@@ -12,4 +12,5 @@ dependencies = [
     "tqdm>=4.67.1",
     "transformers>=4.47.1",
     "trl>=0.13.0",
+    "unsloth>=3.10"
 ]
