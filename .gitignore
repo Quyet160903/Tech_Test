@@ -1,1 +1,3 @@
 .env
+socrates_llm/.env
+*.env
