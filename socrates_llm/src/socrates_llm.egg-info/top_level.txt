@@ -1,1 +1,4 @@
 create_dataset
+download_model
+socrates_llm
+test

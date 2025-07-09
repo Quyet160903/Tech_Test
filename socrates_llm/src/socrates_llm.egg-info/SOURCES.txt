@@ -1,6 +1,12 @@
 README.md
 pyproject.toml
 src/create_dataset.py
+src/download_model.py
+src/test.py
+src/socrates_llm/constants.py
+src/socrates_llm/finetune.py
+src/socrates_llm/model_utils.py
+src/socrates_llm/trainer.py
 src/socrates_llm.egg-info/PKG-INFO
 src/socrates_llm.egg-info/SOURCES.txt
 src/socrates_llm.egg-info/dependency_links.txt

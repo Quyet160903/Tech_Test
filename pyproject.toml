@@ -1,0 +1,19 @@
+[project]
+name = "socrates-llm"
+version = "0.1.0"
+description = "LLM Fine-tuning with GPU support"
+readme = "README.md"
+requires-python = ">=3.12"
+
+dependencies = [
+    "datasets>=3.5.0",
+    "openai>=1.58.1",
+    "python-dotenv>=1.0.1",
+    "transformers>=4.47.1",
+    "trl>=0.13.0",
+    "accelerate>=1.1.0",
+    "huggingface-hub>=0.26.0",
+]
+
+# PyTorch with CUDA will be installed separately to ensure GPU support
+# unsloth will be added after PyTorch CUDA is working 
